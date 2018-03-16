@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Map Direction</string>
+
+    <string-array name="cities">
+        <item>New York, NY</item>
+        <item>Washington, DC</item>
+        <item>Miami, FL</item>
+        <item>Los Angeles, CA</item>
+        <item>San Francisco, CA</item>
+        <item>Las Vegas, NV</item>
+    </string-array>
+</resources>
